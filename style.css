@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "playfair";
+    src: url("font/PlayfairDisplay-Medium.ttf") format("ttf");
+   }
+   @font-face {
+    font-family: "abezee";
+    src: url("font/abeezee_[fr.allfont.net].ttf") format("ttf");
+   }
+   
+body{
+    background-color: #011627;
+    color: white;
+    font-family: 'playfair';
+}
+header{
+    background-image: url("image/ganapathy-kumar-GLmhbqbn1WA-unsplash_1.png");
+    background-position: center;
+    min-height: 900px;
+}
+h1{
+    font-size: 5em;
+}
